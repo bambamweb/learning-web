@@ -1,0 +1,58 @@
+body {
+}
+ul {
+  color: lightblue;
+  font-size: 30px;
+  background-color: darkgreen;
+}
+img {
+  width: 1000px;
+  margin-bottom: 50px;
+  padding: 50px 50px 50px 100px;
+}
+.paragraph-one {
+  color: yellow;
+  background-color: black;
+}
+.paragraph-two {
+  color: blue;
+}
+.paragraph-three{
+    color: brown;
+}
+
+.text{
+    color: olive;
+    font-size: 20px;
+    background-color: bisque;
+    padding: 50px 50px 50px 400px;/*top, right, bottom, left*/
+    
+}
+.text2{
+    color: turquoise;
+    font-size: 20px;
+    background-color: black;
+    padding: 50px 50px 50px 400px;/*top, right, bottom,left*/
+margin: 50px 0px 50px 0px;
+}
+.text3{
+    color: greenyellow;
+    font-size: 20px;
+    background-color:chocolate;
+    padding: 50px 50px 50px 400px;/*top, right, bottom, left*/
+}
+#paragraph-text{
+    color: aqua;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
